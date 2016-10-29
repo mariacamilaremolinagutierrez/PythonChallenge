@@ -7,16 +7,16 @@ inicio = '63579'
 
 res = 'and the next nothing is'
 
-f = urllib.urlopen(base+inicio)
+f = urllib.urlopen(base + inicio)
 linea = f.read()
 arr = linea.split(' ')
 
-while(arr[0]=='and'):
+while(arr[0] == 'and'):
 
     inicio = arr[-1]
 
     print(inicio)
 
-    f = urllib.urlopen(base+inicio)
+    f = urllib.urlopen(base + inicio)
     linea = f.read()
     arr = linea.split(' ')
