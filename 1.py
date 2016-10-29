@@ -8,7 +8,7 @@ abc = array(['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q'
 
 for i in range(len(s)):
     p=s[i]
-    if(p==" " or p=="." or p=="(" or p==")" or p=="'" or p=="/" or p==":"):
+    if(p == " " or p == "." or p == "(" or p == ")" or p == "'" or p == "/" or p == ":"):
         ss+=p
     else:    
         ind = where(abc==p)[0][0]
