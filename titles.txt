@@ -1,0 +1,10 @@
+0) warming up (274877906944)
+1) what about making trans? (ocr)
+2) ocr (equality)
+3) re (linkedlist.php)
+4) follow the chain (peak)
+5) peakhell (channel)
+6) now there are pairs (oxygen)
+7) smarty (integrity)
+8) working hard? ()
+
