@@ -1,10 +1,9 @@
 from numpy import *
 import string
 
-abc = list(string.ascii_lowercase)
-
-mess = open('mess.txt')
-linea = mess.readline()
+abc=list(string.ascii_lowercase)
+mess=open('mess.txt')
+linea=mess.readline()
 
 while (linea != ""):
 
