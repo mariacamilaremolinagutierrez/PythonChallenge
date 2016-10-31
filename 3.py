@@ -3,10 +3,8 @@ import string
 
 abc_low = list(string.ascii_lowercase)
 abc_up = list(string.ascii_uppercase)
-
 mess = open('3.txt')
 linea = mess.readline()
-
 res = ''
 
 while (linea != ""):
