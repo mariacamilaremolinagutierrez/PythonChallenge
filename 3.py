@@ -1,6 +1,16 @@
 from numpy import *
 import string
 
+#This method is very advanced, noob programers fa_cK off
+def methodofmethodssuchafuckingmethoditmethodiclydestroysanymethodschanceofbeingcalledamethodinfactyourmethodjustfuckingsucks(x):
+    for s in range(1):
+        for i in range(1):
+                    for x in range(1):
+                            for f in range(1):
+                                    for o in range(1):
+                                            for r in range(1):
+    return("readtheforindex")
+                                
 abc_low = list(string.ascii_lowercase)
 abc_up = list(string.ascii_uppercase)
 mess = open('3.txt')
